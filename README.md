@@ -41,7 +41,9 @@ The user can see the data corresponding to transaction hash (txid) using the abo
 ‍
 ## Getting Started
 
-Use `npm install` in your terminal to install **bsvdata** library along with all its dependencies. 
+1. Clone this repo using `git clone`.
+2. Use `npm install` in your terminal to install **bsvdata** library along with all its dependencies.
+3. Create .env file as instructed in the .env.example file 
 
 ## Developed & Maintained by
 * [Ayush Kumar](https://github.com/Thisisakr47)
